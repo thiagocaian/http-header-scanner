@@ -1,0 +1,14 @@
+{
+  "url": "https://example.com",
+  "score": 0,
+  "total": 6,
+  "missing": [
+    "Content-Security-Policy",
+    "Strict-Transport-Security",
+    "X-Frame-Options",
+    "X-Content-Type-Options",
+    "Referrer-Policy",
+    "Permissions-Policy"
+  ],
+  "present": {}
+}
